@@ -4,7 +4,7 @@
 This repository contains materials from my talk about Disney animation principles and Demo written in SwiftUI. The presentation explores how animations are not just visual polish but a powerful psychological tool that can significantly improve user experience and product metrics.
 
 ## Demo
-<video src="Resources/Demo.mp4" height="400" controls></video>
+![Demo video](Resources/Demo.mp4)
 
 ## Keynote Materials
 [Download Keynote PDF](Resources/Disney%20animations.pdf)
@@ -33,7 +33,3 @@ This repository contains materials from my talk about Disney animation principle
    - [Particle Systems](https://kavsoft.dev/swiftui_4.0_particle_effect_apr23)
    - [Matched Geometry Effect](https://talk.objc.io/episodes/S01E257-matched-geometry-effect-part-1)
    - [SF Symbols Animation](https://www.hackingwithswift.com/quick-start/swiftui/how-to-animate-sf-symbols)
-
-3. Loading States
-   - [Shimmer Effect](https://kavsoft.dev/swiftui_4.0_shimmer_effect_mar23)
-   - [Progress Animations](Link to be added)
