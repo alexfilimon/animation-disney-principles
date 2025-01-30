@@ -4,7 +4,7 @@
 This repository contains materials from my talk about Disney animation principles and Demo written in SwiftUI. The presentation explores how animations are not just visual polish but a powerful psychological tool that can significantly improve user experience and product metrics.
 
 ## Demo
-<video src='https://github.com/user-attachments/assets/5c15e730-1355-41d9-9ff5-8d20aa6f34ad' width=180/>
+<video src='https://github.com/user-attachments/assets/5c15e730-1355-41d9-9ff5-8d20aa6f34ad' width="180px"></video>
 
 ## Keynote Materials
 [Download Keynote PDF](Resources/Disney%20animations.pdf)
