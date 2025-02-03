@@ -1,5 +1,14 @@
 # Disney Animation Principles in SwiftUI
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/alexfilimon/">
+    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://alexfilimon.dev">
+    <img src="https://img.shields.io/badge/alexfilimon.dev-006400?style=for-the-badge&logoColor=white" alt="Website">
+  </a>
+</p>
+
 ## Overview
 This repository contains materials from my talk about Disney animation principles and Demo written in SwiftUI. The presentation explores how animations are not just visual polish but a powerful psychological tool that can significantly improve user experience and product metrics.
 
@@ -18,6 +27,7 @@ This repository contains materials from my talk about Disney animation principle
 - [SwiftUI Animation Documentation](https://developer.apple.com/documentation/swiftui/animation)
 - [Thinking in SwiftUI (objc.io)](https://www.objc.io/books/thinking-in-swiftui/)
 - [SwiftUI Lab](https://swiftui-lab.com)
+- [SwiftUI Animation: A Comprehensive Guide](https://fatbobman.com/en/posts/the_animation_mechanism_of_swiftui/)
 
 ### Tutorial Channels
 - [Kavsoft YouTube Channel](https://www.youtube.com/@Kavsoft)
